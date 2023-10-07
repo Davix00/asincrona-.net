@@ -1,0 +1,10 @@
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\obj\Debug\peticiones_asincronas.csproj.AssemblyReference.cache
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\obj\Debug\peticiones_asincronas.Form1.resources
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\obj\Debug\peticiones_asincronas.Properties.Resources.resources
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\obj\Debug\peticiones_asincronas.csproj.GenerateResource.cache
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\obj\Debug\peticiones_asincronas.csproj.CoreCompileInputs.cache
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\bin\Debug\peticiones_asincronas.exe.config
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\bin\Debug\peticiones_asincronas.exe
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\bin\Debug\peticiones_asincronas.pdb
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\obj\Debug\peticiones_asincronas.exe
+D:\Users\galav\Downloads\web progresivas\peticiones_asincronas\peticiones_asincronas\obj\Debug\peticiones_asincronas.pdb
